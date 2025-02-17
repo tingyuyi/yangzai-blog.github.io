@@ -1,4 +1,4 @@
-baseURL = 'https://yangzai-blog.github.io/'
+baseURL = 'https://yuhaomiao-blog.github.io/'
 languageCode = 'zh-cn'
 title = '宇浩渺AI探索'
 theme = 'hugo-theme-stack'
