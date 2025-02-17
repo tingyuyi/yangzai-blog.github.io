@@ -1,4 +1,4 @@
-baseURL = 'https://yuhaomiao-blog.github.io/'
+baseURL = 'https://tingyuyi.github.io/yuhaomiao-blog.github.io/'
 languageCode = 'zh-cn'
 title = '宇浩渺AI探索'
 theme = 'hugo-theme-stack'
